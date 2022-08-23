@@ -1,0 +1,14 @@
+:root {
+    --backgroundColor: rgba(187, 153, 221, 0.08);
+    --lineColor: rgba(187, 153, 221, 1);
+}
+
+.App {
+    background-color: var(--backgroundColor);
+    height: 100vh;
+    color: var(--lineColor);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 160px;
+}

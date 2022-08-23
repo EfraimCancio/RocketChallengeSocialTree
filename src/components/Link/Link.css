@@ -1,0 +1,15 @@
+.link-button {
+    background-color: var(--backgroundColor);
+    Width: 326px;
+    border: 2px solid var(--lineColor);
+    border-radius: 4px;
+    padding-block: 12px;
+    margin-block: 8px;
+    
+}
+.link-button h3 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    color: var(--lineColor);
+}
