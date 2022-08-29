@@ -1,11 +1,11 @@
 import React from "react";
 import './Link.css';
 
-const Link = () => {
+const Link = (props) => {
     return (
         <>
             <button className="link-button">
-                <h3>LINK 1</h3>
+                <h3>{props.name}</h3>
             </button>
         </>
     )

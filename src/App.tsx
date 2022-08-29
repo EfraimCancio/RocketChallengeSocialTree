@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <Avatar />
-      <Link />
-      <Link />
-      <Link />
-      <Link />
+      <Link name="LINK 1"/>
+      <Link name="LINK 2"/>
+      <Link name="LINK 3"/>
+      <Link name="LINK 4"/>
       <IconList/>
     </div>
   )

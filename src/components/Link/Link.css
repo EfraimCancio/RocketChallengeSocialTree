@@ -1,5 +1,5 @@
 .link-button {
-    background-color: var(--backgroundColor);
+    background-color: transparent;
     Width: 326px;
     border: 2px solid var(--lineColor);
     border-radius: 4px;
