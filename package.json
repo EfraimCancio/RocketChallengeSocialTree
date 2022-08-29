@@ -1,5 +1,6 @@
 {
   "name": "rocketchallengesocialtree",
+  "private": true,
   "homepage": "RocketChallengeSocialTree/",
   "version": "0.0.0",
   "type": "module",
